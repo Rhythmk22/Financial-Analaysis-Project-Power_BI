@@ -1,1 +1,2 @@
 # Financial-Analaysis-Project-Power_BI
+In this comprehensive financial analysis project on Power BI, I have conducted a thorough comparative analysis, presenting key insights through an intuitive dashboard. Leveraging various visual elements such as Card Visuals with Logo, Pie Chart visuals, Bar and Clustered Column charts, Matrix (Table) Visual, and strategically incorporating different slicers for data customization, the dashboard provides a dynamic and insightful overview of the financial landscape.
